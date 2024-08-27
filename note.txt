@@ -1,0 +1,1 @@
+     background-size: max(1200px, 100vw);(min, max value respectivly ) (8 line ):- help us to control in background image. 
